@@ -11,7 +11,7 @@ Instructions for running the project
 
 2. Run the following command in the same folder:
 
-    bentoml build
+    `bentoml build`
   
   this will build the build the bento with the model you just trained and saved. Once the bento has been built you will see this message(with a new tag):
     
