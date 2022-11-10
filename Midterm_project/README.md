@@ -51,7 +51,7 @@ Instructions for running the project
 }``
 
   if you change the value of capital_gain to 0 and run it again you will get a different response.  You can play with the values of the
-  variables to see how different values affect the prediction. I hve included screen shots of myself using the service to make predictions.
+  variables to see how different values affect the prediction. I have included screen shots of myself using the service to make predictions.
 
 
   
